@@ -1,4 +1,4 @@
-Crop Disease in Uganda
+#Crop Disease in Uganda
 In this project we'll be working with a dataset of crop disease images from Uganda. You'll build and train a convolutional neural network to classify images into five categories. In the project you'll learn how to improve the performance of a computer vision model by using pre-trained models and by optimizing training with techniques like Callbacks.
 
 By the end of this project, you'll be able to:
