@@ -1,15 +1,11 @@
-# Explore Data Sets
+Crop Disease in Uganda
+In this project we'll be working with a dataset of crop disease images from Uganda. You'll build and train a convolutional neural network to classify images into five categories. In the project you'll learn how to improve the performance of a computer vision model by using pre-trained models and by optimizing training with techniques like Callbacks.
 
-This file is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
+By the end of this project, you'll be able to:
 
-You can:
-
-✓ Download this file
-✓ Post this file in public repositories
-You must always:
-✓ Give credit to WorldQuant University for the creation of this file
-✓ Provide a link to the license
-You cannot:
-✗ Create derivatives or adaptations of this file
-✗ Use this file for commercial purposes
-Failure to follow these guidelines is a violation of your terms of service and could lead to your expulsion from WorldQuant University and the revocation your certificate.
+Explore a crop image dataset.
+Build and training a convolutional neural network to classify images into five classes.
+Improve the model by using Transfer Learning and adapting a pre-trained image classification model.
+Indentify model overfitting.
+Evaluate model performance using k-fold cross-validation.
+Utilize Callbacks like Learning Rate Scheduling, Checkpointing, and Early Stopping to optimize training.
